@@ -13,8 +13,8 @@
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/akulahemanth06/SimpleFaceDetection.git
-   cd SimpleFaceDetection
+   git clone https://github.com/akulahemanth06/Simple-Face-Detection.git
+   cd Simple-Face-Detection
 
 
 2. **Install dependencies:**
